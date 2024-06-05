@@ -216,6 +216,7 @@
 
                             </ul>
                         </div>
+                        @include('layouts.language')
 
                         <button id="dropdownDefaultButton" data-dropdown-toggle="dropdown"
                             class="text-black bg-pr-400 hover:bg-pr-600 font-medium rounded-lg text-sm px-3 py-2.5 text-center inline-flex items-center "
@@ -315,7 +316,7 @@
                                     <a href="javascript:void(0)" class="hover:underline">{{ __('Privacy Policy') }}</a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0)" class="hover:underline">{{ __('Terms &amp; Conditions') }}</a>
+                                    <a href="javascript:void(0)" class="hover:underline">{{ __('Terms & Conditions') }}</a>
                                 </li>
                             </ul>
                         </div>
@@ -326,7 +327,7 @@
                 <hr class="my-6  sm:mx-auto border-gray-700 lg:my-8" />
 
                 <div class="sm:flex sm:items-center sm:justify-between md:ms-0 pb-4  ms-32">
-                    <span class="text-sm sm:text-center text-gray-400 md:ms-0 -ms-8">© 2024. All Rights Reserved.
+                    <span class="text-sm sm:text-center text-gray-400 md:ms-0 -ms-8">© 2024. {{ __('All Rights Reserved') }}.
                     </span>
                 </div>
                 <div>

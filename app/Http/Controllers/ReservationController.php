@@ -35,10 +35,11 @@ class ReservationController extends Controller
     {
 
         try {
-            $request->validate([
-                'start_date' => 'required|date|after_or_equal:today',
-                'end_date' => 'required|date|after:start_date',
-            ]);
+//            $request->validate([
+//                'start_date' => 'required|date|after_or_equal:today',
+//                'end_date' => 'required|date|after:start_date',
+//            ]);
+
             $car = Car::find($car_id);
             $user = User::find($request->user);
 

@@ -48,6 +48,7 @@ class carSearchController extends Controller
         $cars->appends($request->except('page'));
 
 
+
         return view('cars.searchedCars', compact('cars'));
     }
 }

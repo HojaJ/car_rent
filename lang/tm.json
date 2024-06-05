@@ -85,7 +85,7 @@
   "Order by this column": "Bu sütün boýunça tertiple",
   "Reverse order this column": "Bu sütün boýunça yzdan tertiple",
   "No matching records found": "Gabat gelýän ýazgylar tapylmady",
-  "Search:": "Gözle:",
+  "Search": "Gözle",
   "processing": "Garaşyň",
   "Loading...": "Ýüklenilýär...",
   "Show _MENU_ entries": "_MENU_ sanysyny gözkez",
@@ -117,12 +117,10 @@
   "Our streamlined process makes renting a car quick and effortless, saving you time and hassle.": "Optimallaşdyrylan prosesimiz awtoulag kireýine almagy çalt we aňsat edýär, size wagtyňyzy tygşytlaýar.",
   "Digital Services": "Sanly Hyzmatlar",
   "Take advantage of our convenient digital services, making your car rental experience even more convenient and efficient.": "Awtoulag kireýine almagyňyzy has-da amatly we netijeli edýän biziň amatly sanly hyzmatlarymyzdan peýdalanyp bilersiňiz.",
-
   "Brand" : "Brendi",
   "Model" : "Modeli",
   "minimum price" : "Iň kiçi baha",
   "maximum price" : "Iň uly baha",
-
   "Contact Us": "Habarlaşyň",
   "Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.": "Tehniki meseleňiz barmy? Beta funksiýasy barada seslenme ibermejekmi? Biznes planymyz barada maglumat almak isleýärsiňizmi? Bize habar beriň.",
   "Phone Number": "Telefon belgisi",
@@ -149,7 +147,7 @@
   "Remaining days": "Galýan Günler",
   "Available Cars": "Elýeterli Awtoulaglar",
   "Active Reservations": "Işjeň Rezervasiýalar",
-  "Order Now": "Indi Sargyt Ber",
+  "Order Now": "Sargyt et",
   "Thank You": "Sag boluň",
   "Thank you for choosing and trusting our car company": "Biziň awtoulag kompaniýamyz saýlap we ynanyp bermegiňiz üçin sag boluň",
   "Go to reservations": "Rezervasiýalara geç",
@@ -166,5 +164,9 @@
   "Price per day": "Gündelik bahasy",
   "Car Stars": "Avtoulag ýyldyzlary",
   "Unavailable": "Elýeterli däl",
-  "Update": "Täzele"
+  "Update": "Täzele",
+  "From": "Başy",
+  "To": "Soňy",
+  "There no reservations yet": "Zat ýok",
+  "All Rights Reserved": "Ähli hukuklar goralan"
 }

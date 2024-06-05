@@ -73,7 +73,7 @@
   "Order by this column": "Упорядочить по этому столбцу",
   "Reverse order this column": "Обратный порядок этого столбца",
   "No matching records found": "Совпадающих записей не найдено",
-  "Search:": "Поиск:",
+  "Search": "Поиск",
   "processing": "обработка",
   "Loading...": "Загрузка...",
   "Show _MENU_ entries": "Показать _MENU_ записей",
@@ -155,5 +155,9 @@
   "Price per day": "Цена за день",
   "Car Stars": "Рейтинг автомобиля",
   "Unavailable": "Недоступно",
-  "Update": "Обновить"
+  "Update": "Обновить",
+  "From": "С",
+  "To": "До",
+  "There no reservations yet": "Пусто",
+  "All Rights Reserved": "Все права защищены"
 }

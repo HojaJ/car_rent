@@ -15,28 +15,6 @@ class CarSeeder extends Seeder
     {
         $cars = [
             [
-                'brand' => 'Toyota',
-                'model' => 'Camry',
-                'engine' => '2.5L',
-                'price_per_day' => 50,
-                'image' => '/images/cars/Toyota_Camry.jpg',
-                'quantity' => 1,
-                'status' => 'Available',
-                'reduce' => 30,
-                'stars' => 5,
-            ],
-            [
-                'brand' => 'Honda',
-                'model' => 'Civic',
-                'engine' => '1.8L',
-                'price_per_day' => 45,
-                'image' => '/images/cars/Honda_Civic.jpg',
-                'quantity' => 1,
-                'status' => 'Available',
-                'reduce' => 10,
-                'stars' => 5,
-            ],
-            [
                 'brand' => 'Ford',
                 'model' => 'Mustang',
                 'engine' => '5.0L V8',

@@ -1,0 +1,17 @@
+{
+  "node_modules/flowbite/dist/flowbite.min.js?commonjs-entry": {
+    "file": "assets/flowbite.min-b8ee84ef.js",
+    "isEntry": true,
+    "src": "node_modules/flowbite/dist/flowbite.min.js?commonjs-entry"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-2db48675.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-5dc6f40f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
